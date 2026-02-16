@@ -1,7 +1,7 @@
-# feedly-background-tab-open
+# FreshRSS-background-tab-open
 
 ## Overview
-Chrome Extension for opening Feedly articles in a background tab on custom short cut key.
+Chrome Extension for opening FreshRSS articles in a background tab on custom short cut key.
 
 Published on the [Chrome Web Store](https://chrome.google.com/webstore/detail/feedly-background-tab-ope/knekhffbanfpccociahfjklboipfkecm).
 

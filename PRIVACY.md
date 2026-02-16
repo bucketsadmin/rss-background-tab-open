@@ -2,13 +2,13 @@
 
 ## Overview
 
-Feedly Background Tab Open is committed to protecting your privacy and personal information.
+FreshRSS Background Tab Open is committed to protecting your privacy and personal information.
 
 ## Data Collection and Usage
 
 This extension performs the following operations:
 
-- Controls article opening behavior on Feedly website
+- Controls article opening behavior on FreshRSS website
 - Manages background tab display of articles
 
 We DO NOT collect:

@@ -1,6 +1,6 @@
 {
-  "name": "Feedly Background Tab Open",
-  "description": "Open Feedly Links in Background Tab using shortcut key",
+  "name": "FreshRSS Background Tab Open",
+  "description": "Open FreshRSS Links in Background Tab using shortcut key",
   "version": "1.25",
   "manifest_version": 3,
   "icons": {
